@@ -4,7 +4,7 @@ interface ICommands{
 
 export const comandos : ICommands = {
     '<3redes' : 'Redes sociais da Rafa: https://beacons.ai/rafaballerini',
-    '<3discord' : 'Faça parte da nossa comunidade: https://discord.gg/pzRrsEgHpn',
+    '<3discord' : 'Faça parte da nossa comunidade: https://discord.gg/pzRrsEgHpnk',
     '<3instagram' : 'Siga a Rafa no instagram: https://instagram.com/rafaballerini',
     '<3youtube' : 'Se inscreva no canal da Rafa: https://youtube.com/RafaellaBallerini',
     '<3twitter' : 'Siga a Rafa no twitter: https://twitter.com/ballerinirafa',
